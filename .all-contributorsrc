@@ -114,6 +114,42 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "ORCUSio",
+      "name": "ORCUSio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94834734?v=4",
+      "profile": "https://github.com/ORCUSio",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "subham-prasad",
+      "name": "subham-prasad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68709992?v=4",
+      "profile": "http://subhamprasad.in",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sameerkali",
+      "name": "Sameer Faridi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76611058?v=4",
+      "profile": "https://sameer69.netlify.app",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "shanmukhipriya99",
+      "name": "Shanmukhi Priya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37501487?v=4",
+      "profile": "https://github.com/shanmukhipriya99",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
